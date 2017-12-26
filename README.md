@@ -22,3 +22,12 @@ Construct multivariate linear regression to predict the determinant factors for 
 
 # 4. Model validation
 * Used the fitted model to predict 2016 data and compare with the actual 2016 data
+
+
+# Sample graphical analysis
+
+![FSM](https://github.com/sunnymeow/HappinessScoreRegression/blob/master/res/HS_vs_Predictor.png)
+
+# Comparison between predicted result and actual 2016 data
+
+![FSM](https://github.com/sunnymeow/HappinessScoreRegression/blob/master/res/prediction.png)
