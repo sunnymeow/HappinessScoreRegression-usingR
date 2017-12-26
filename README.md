@@ -30,4 +30,4 @@ Construct multivariate linear regression to predict the determinant factors for 
 
 # Comparison between predicted result and actual 2016 data
 
-![FSM}(https://github.com/sunnymeow/HappinessScoreRegression/blob/master/res/prediction.png)
+![FSM](https://github.com/sunnymeow/HappinessScoreRegression/blob/master/res/prediction.png)
